@@ -1,0 +1,2 @@
+# FirstRep
+Setting up git 
